@@ -11,6 +11,5 @@ TRUMILOON is an exploration of object agency where you can observe and control "
 &nbsp;
 &nbsp;
 <br>
-<img src="./example_ux/trumiloon_alone.gif"/>
-<br>
-<img src="./example_ux/trumiloon.gif/">
+<img src="./example_ux/trumiloon_alone.gif" width=400/>
+<img src="./example_ux/trumiloon.gif/" width=400>
