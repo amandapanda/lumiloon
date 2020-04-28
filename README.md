@@ -10,4 +10,4 @@ LUMILOON is an exploration of object agency where you can observe and control "t
 &nbsp;
 &nbsp;
 <br>
-<embed src=".trumiloon/example_ux/trumiloon.gif"/>
+<img src=".trumiloon/example_ux/trumiloon.gif"/>
